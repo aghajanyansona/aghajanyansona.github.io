@@ -1,0 +1,17 @@
+body {
+    font-family; Arial,sans-serif;
+    margin:20px 40px 60px 80px;
+    background-color: aquamarine;
+}
+section{
+    background-color:blue;
+    color:beige
+    text-align: center;
+}
+section article p{
+background-color: blueviolet;
+}
+section > p{
+    background-color: brown;
+    color: aqua;
+}
